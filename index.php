@@ -81,12 +81,11 @@
 								<li>
 									<a href="portfolio.html" class="fh5co-sub-ddown">Projects</a>
 									<ul class="fh5co-sub-menu">
-										<li><a href="http://freehtml5.co/preview/?item=build-free-html5-bootstrap-template" target="_blank">Build</a></li>
-										<li><a href="http://freehtml5.co/preview/?item=work-free-html5-template-bootstrap" target="_blank">Work</a></li>
-										<li><a href="http://freehtml5.co/preview/?item=light-free-html5-template-bootstrap" target="_blank">Light</a></li>
-										<li><a href="http://freehtml5.co/preview/?item=relic-free-html5-template-using-bootstrap" target="_blank">Relic</a></li>
-										<li><a href="http://freehtml5.co/preview/?item=display-free-html5-template-using-bootstrap" target="_blank">Display</a></li>
-										<li><a href="http://freehtml5.co/preview/?item=sprint-free-html5-template-bootstrap" target="_blank">Sprint</a></li>
+										<li><a href="http://icaynia.com/_dmxario" target="_blank">DMXArio</a></li>
+										<li><a href="https://play.google.com/store/apps/details?id=com.icaynia.tangoii" target="_blank">Tango Memory</a></li>
+										<li><a href="https://play.google.com/store/apps/details?id=com.icaynia.noteii" target="_blank">Noi!</a></li>
+										<li><a href="https://play.google.com/store/apps/details?id=com.icaynia.watchii" target="_blank">Wai!</a></li>
+										<li><a href="http://j1sms.or.kr" target="_blank">Jeilsms</a></li>
 									</ul>
 								</li>
 								<li>
