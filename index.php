@@ -129,9 +129,9 @@
 			<div class="fh5co-cover text-center" data-stellar-background-ratio="0.5" style="background-image: url(images/cover_bg_1.jpg);">
 				<div class="desc animate-box">
 					<h2>Create <strong>Good</strong> Things</h2>
-					<!--
-					<span>Lovely Crafted by <a href="http://frehtml5.co/" target="_blank" class="fh5co-site-name">FREEHTML5.co</a></span>
-					-->
+					<!-- -->
+					<span><a href="http://frehtml5.co/" target="_blank" class="fh5co-site-name"></a></span>
+					
 					<span><a class="btn btn-primary btn-lg" href="#">Get Started</a></span>
 				</div>
 			</div>
