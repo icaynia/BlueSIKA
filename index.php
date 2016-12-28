@@ -480,7 +480,7 @@
 								<a href="#"><i class="icon-facebook2"></i></a>
 								<a href="#"><i class="icon-instagram"></i></a>
 								<a href="#"><i class="icon-dribbble2"></i></a>
-								<a href="#"><i class="icon-youtube"></i></a>
+								<a href="https://www.youtube.com/channel/UCeKuEIpVAR3ZBHwf-BLPVkw"><i class="icon-youtube"></i></a>
 							</p>
 							<p>Copyright 2016 Free Html5 <a href="#">Pentagon</a>. All Rights Reserved. <br>Made with <i class="icon-heart3"></i> by <a href="http://freehtml5.co/" target="_blank">Freehtml5.co</a> / Demo Images: <a href="https://unsplash.com/" target="_blank">Unsplash</a></p>
 						</div>
