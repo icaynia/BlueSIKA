@@ -239,19 +239,19 @@
 					<div class="col-md-12">
 						<ul id="fh5co-portfolio-list">
 
-							<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/work-5.jpg); ">
-								<a href="#" class="color-3">
+							<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/work-1.jpg); ">
+								<a href="#" class="color-4">
 									<div class="case-studies-summary">
-										<span>Illustration</span>
-										<h2>Useful baskets</h2>
+										<span>Android Project</span>
+										<h2>Tango Memory</h2>
 									</div>
 								</a>
 							</li>
-							<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/work-6.jpg); ">
-								<a href="#" class="color-4">
+							<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/work-2.jpg); "> 
+								<a href="#" class="color-5">
 									<div class="case-studies-summary">
-										<span>Web Design</span>
-										<h2>Skater man in the road</h2>
+										<span>Android Project</span>
+										<h2>DMXArio</h2>
 									</div>
 								</a>
 							</li>
@@ -259,17 +259,19 @@
 							<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/work-1.jpg); ">
 								<a href="#" class="color-4">
 									<div class="case-studies-summary">
-										<span>Web Design</span>
-										<h2>Two Glas of Juice</h2>
+										<span>-</span>
+										<h2>-</h2>
 									</div>
 								</a>
 							</li>
 
+							<!--
+
 							<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/work-2.jpg); "> 
 								<a href="#" class="color-5">
 									<div class="case-studies-summary">
-										<span>Web Design</span>
-										<h2>Timer starts now!</h2>
+										<span>Android Project</span>
+										<h2>DMXArio</h2>
 									</div>
 								</a>
 							</li>
@@ -281,6 +283,8 @@
 									</div>
 								</a>
 							</li>
+
+							-->
 						</ul>		
 					</div>
 				</div>
