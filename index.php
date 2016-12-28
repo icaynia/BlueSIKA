@@ -240,7 +240,7 @@
 						<ul id="fh5co-portfolio-list">
 
 							<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/work-1.jpg); ">
-								<a href="#" class="color-4">
+								<a href="https://play.google.com/store/apps/details?id=com.icaynia.tangoii" class="color-4">
 									<div class="case-studies-summary">
 										<span>Android Project</span>
 										<h2>Tango Memory</h2>
@@ -248,7 +248,7 @@
 								</a>
 							</li>
 							<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/work-2.jpg); "> 
-								<a href="#" class="color-5">
+								<a href="https://play.google.com/store/apps/details?id=com.icaynia.dmxario" class="color-5">
 									<div class="case-studies-summary">
 										<span>Android Project</span>
 										<h2>DMXArio</h2>
