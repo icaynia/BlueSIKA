@@ -256,11 +256,11 @@
 								</a>
 							</li>
 
-							<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/work-1.jpg); ">
-								<a href="#" class="color-4">
+							<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/STARLIGHT.jpg); ">
+								<a href="https://www.youtube.com/watch?v=yz1-dkCgcrs" class="color-4">
 									<div class="case-studies-summary">
-										<span>-</span>
-										<h2>-</h2>
+										<span>Music Project</span>
+										<h2>Starlight</h2>
 									</div>
 								</a>
 							</li>
