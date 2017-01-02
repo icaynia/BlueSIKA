@@ -13,7 +13,7 @@
 	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
 	<meta name="author" content="FREEHTML5.CO" />
 
-  <!-- 
+  	<!-- 
 	//////////////////////////////////////////////////////
 
 	FREE HTML5 TEMPLATE 
@@ -180,7 +180,6 @@
 				</div>
 			</div>
 		</div>
-		-->
 		<div id="fh5co-feature-product" class="fh5co-section-gray">
 			<div class="container">
 				<div class="row row-bottom-padded-md">
@@ -222,7 +221,8 @@
 				
 			</div>
 		</div>
-
+		
+		-->
 		
 		<div id="fh5co-portfolio">
 			<div class="container">
