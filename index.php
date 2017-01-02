@@ -127,11 +127,11 @@
 			<div class="fh5co-overlay"></div>
 			<div class="fh5co-cover text-center" data-stellar-background-ratio="0.5" style="background-image: url(images/cover_bg_1.jpg);">
 				<div class="desc animate-box">
-					<h2>Create <strong>Good</strong> Things</h2>
+					<h2><strong>좋은 것들</strong>을 만듭니다.</h2>
 					<!-- -->
 					<span><a href="http://frehtml5.co/" target="_blank" class="fh5co-site-name"></a></span>
 					
-					<span><a class="btn btn-primary btn-lg" href="#">Get Started</a></span>
+					<span><a class="btn btn-primary btn-lg" href="#">자세히 보기</a></span>
 				</div>
 			</div>
 
@@ -291,7 +291,7 @@
 
 				<div class="row">
 					<div class="col-md-4 col-md-offset-4 text-center animate-box">
-						<a href="#" class="btn btn-primary btn-lg">See All Our Works</a>
+						<a href="#" class="btn btn-primary btn-lg">참여한 프로젝트들</a>
 					</div>
 				</div>
 
