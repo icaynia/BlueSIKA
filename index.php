@@ -300,7 +300,7 @@
 		</div>
 		
 
-		
+		<!--
 		<div id="fh5co-content-section" class="fh5co-section-gray">
 			<div class="container">
 				<div class="row">
@@ -348,6 +348,7 @@
 				</div>
 			</div>
 		</div>
+		-->
 		<!-- fh5co-content-section -->
 
 		<div id="fh5co-services-section">
@@ -355,7 +356,7 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
 						<h3>What We Do</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit est facilis maiores, perspiciatis accusamus asperiores sint consequuntur debitis.</p>
+						<p>My Skills</p>
 					</div>
 				</div>
 			</div>
@@ -371,14 +372,14 @@
 					<div class="col-md-4 col-sm-4">
 						<div class="services animate-box">
 							<span><i class="icon-mobile"></i></span>
-							<h3>Mobile Apps</h3>
+							<h3>Android Mobile Apps</h3>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-4">
 						<div class="services animate-box">
 							<span><i class="icon-tools"></i></span>
-							<h3>UX Design</h3>
+							<h3>3D Printing</h3>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
 						</div>
 					</div>
@@ -392,14 +393,14 @@
 					<div class="col-md-4 col-sm-4">
 						<div class="services animate-box">
 							<span><i class="icon-search"></i></span>
-							<h3>SEO Ranking</h3>
+							<h3>Music / Audio Editing</h3>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-4">
 						<div class="services animate-box">
 							<span><i class="icon-cloud"></i></span>
-							<h3>Cloud Based Apps</h3>
+							<h3>Japanese</h3>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
 						</div>
 					</div>
