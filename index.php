@@ -488,7 +488,7 @@
 								<a href="https://www.facebook.com/bluesika/"><i class="icon-facebook2"></i></a>
 								<a href="https://www.youtube.com/channel/UCeKuEIpVAR3ZBHwf-BLPVkw"><i class="icon-youtube"></i></a>
 							</p>
-							<p>Copyright 2016 Free Html5 <a href="#">Pentagon</a>. All Rights Reserved. <br>Made with <i class="icon-heart3"></i> by <a href="http://freehtml5.co/" target="_blank">Freehtml5.co</a> / Demo Images: <a href="https://unsplash.com/" target="_blank">Unsplash</a></p>
+							<p>Copyright by <a href="http://icaynia.com">icaynia</a>. All Rights Reserved.</p>
 						</div>
 					</div>
 				</div>
