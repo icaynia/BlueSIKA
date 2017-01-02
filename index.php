@@ -76,10 +76,10 @@
 						<nav id="fh5co-menu-wrap" role="navigation">
 							<ul class="sf-menu" id="fh5co-primary-menu">
 								<li class="active">
-									<a href="index.php">Home</a>
+									<a href="index.php">홈</a>
 								</li>
 								<li>
-									<a href="portfolio.html" class="fh5co-sub-ddown">Projects</a>
+									<a href="portfolio.html" class="fh5co-sub-ddown">프로젝트</a>
 									<ul class="fh5co-sub-menu">
 										<li><a href="http://icaynia.com/_dmxario" target="_blank">DMXArio</a></li>
 										<li><a href="https://play.google.com/store/apps/details?id=com.icaynia.tangoii" target="_blank">Tango Memory</a></li>
@@ -242,7 +242,7 @@
 							<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/work-1.jpg); ">
 								<a href="https://play.google.com/store/apps/details?id=com.icaynia.tangoii" class="color-4">
 									<div class="case-studies-summary">
-										<span>Android Project</span>
+										<span>안드로이드 프로젝트</span>
 										<h2>Tango Memory</h2>
 									</div>
 								</a>
@@ -250,7 +250,7 @@
 							<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/work-2.jpg); "> 
 								<a href="https://play.google.com/store/apps/details?id=com.icaynia.dmxario" class="color-5">
 									<div class="case-studies-summary">
-										<span>Android Project</span>
+										<span>안드로이드 프로젝트</span>
 										<h2>DMXArio</h2>
 									</div>
 								</a>
@@ -259,7 +259,7 @@
 							<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/STARLIGHT.jpg); ">
 								<a href="https://www.youtube.com/watch?v=yz1-dkCgcrs" class="color-4">
 									<div class="case-studies-summary">
-										<span>Music Project</span>
+										<span>음악 프로젝트</span>
 										<h2>Starlight</h2>
 									</div>
 								</a>
