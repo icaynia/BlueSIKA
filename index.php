@@ -230,7 +230,7 @@
 				<div class="row">
 					<div class="col-md-6 col-md-offset-3 text-center heading-section animate-box">
 						<h3>Recent Work</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit est facilis maiores, perspiciatis accusamus asperiores sint consequuntur debitis.</p>
+						<p>This is my project I made</p>
 					</div>
 				</div>
 
